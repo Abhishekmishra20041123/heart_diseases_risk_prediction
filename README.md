@@ -73,7 +73,7 @@ Based on proper evaluation with duplicate removal:
 
 ## 🎥 Demo
 
-A screen recording demonstrating the dashboard functionality is available as `Screen Recording 2026-02-07 030926.mp4`.
+A screen recording demonstrating the dashboard functionality is available in the repository as `Screen Recording 2026-02-07 032005.mp4`. The video may not play directly in all browsers due to GitHub's display policies for larger files. Download the file directly from the repository to view the demonstration.
 
 ## 🔧 Troubleshooting
 

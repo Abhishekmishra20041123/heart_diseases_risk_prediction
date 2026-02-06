@@ -51,7 +51,7 @@ After data cleaning (removing 723 duplicate records):
 3. Or use the batch file: `start_dashboard.bat`
 
 ## Video Demonstration
-A screen recording demonstrates all dashboard features and functionality.
+A screen recording demonstrates all dashboard features and functionality. The video file is available in the repository as `Screen Recording 2026-02-07 032005.mp4`.
 
 ## Impact
 This dashboard provides healthcare professionals and researchers with an intuitive tool for heart disease risk assessment, featuring multiple validated ML models and comprehensive data visualization capabilities.

@@ -50,8 +50,8 @@
 4. **Commit & Push:**
    ```bash
    git commit -m "Initial commit: Heart Disease Detection Dashboard"
-   git remote add origin [your_github_repo_url]
-   git push -u origin main
+   git remote add origin https://github.com/Abhishekmishra20041123/heart_diseases_risk_prediction.git
+   git push -u origin master
    ```
 
 ## GitHub-Friendly Version:
@@ -75,4 +75,4 @@ heart_disease_detection/
 └── Screen Recording 2026-02-07 032005.mp4  # Demo video
 ```
 
-Note: The screen recording video is 19.2MB in MP4 format which is within GitHub's 25MB file limit and can be viewed directly in the browser.
+Note: The screen recording video is 19.2MB in MP4 format which is within GitHub's 25MB file limit. While GitHub allows this size, videos of this size may not play directly in the browser depending on the viewer's settings. Users can download and view the video file directly from the repository.
