@@ -50,7 +50,9 @@ heart_disease_detection/
 │   └── heart.csv         # Heart disease dataset
 ├── models/               # Trained model files
 ├── README.md            # Project documentation
-└── start_dashboard.bat  # Windows startup script
+├── start_dashboard.bat  # Windows startup script
+├── model_performance_comparison.png  # Performance visualization
+└── Screen Recording 2026-02-07 032005.mp4  # Demo video
 ```
 
 ## 🎯 Model Performance
