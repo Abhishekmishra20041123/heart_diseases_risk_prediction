@@ -1,0 +1,31 @@
+# Jupyter notebooks
+*.ipynb
+
+# Configuration files
+feature_columns.json
+
+# Virtual environments
+venv/
+env/
+env.bak/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
